@@ -1,2 +1,2 @@
-# Linear_Regression_Mosquitos
-Linear regression model to predict a number of Mosquito per specific area.
+# EDA and Extra Tree Regressor model with Mosquito Indicator Data  
+Exploratory Data Analysis and subsequent prediction of mosquito rate using Extra Tree Regressor model. Model selection with Cross-Validation and  Hyperparameter Tuning
